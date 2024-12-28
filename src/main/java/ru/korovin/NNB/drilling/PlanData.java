@@ -1,12 +1,10 @@
-package drilling;
+package ru.korovin.NNB.drilling;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
-/*Класс drilling.PlanData - описывает плановые исходные данные
+/*Класс ru.korovin.NNB.drilling.PlanData - описывает плановые исходные данные
 * при наклонно-направленном бурении*/
 @Data
 @AllArgsConstructor

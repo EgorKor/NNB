@@ -1,4 +1,4 @@
-package drilling;
+package ru.korovin.NNB.drilling;
 
 import java.util.ArrayList;
 import java.util.List;

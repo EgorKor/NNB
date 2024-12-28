@@ -1,4 +1,4 @@
-package drilling;
+package ru.korovin.NNB.drilling;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

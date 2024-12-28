@@ -1,4 +1,4 @@
-package formulaChecking;
+package ru.korovin.NNB.formulaChecking;
 
 import static java.lang.Math.*;
 
