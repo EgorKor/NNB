@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="tmW0ZtS2SYcjEu_bRA6Z">
+    <mxGraphModel dx="714" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-1" value="Шаг 1. Из файла Инклинометрия взять привязночную точку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-2" value="Описание процесса&lt;div&gt;подготовки журнала бурения&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-3" value="Привязочная точка - это параметры&lt;div&gt;&quot;замер&quot; - например 1909 м&lt;/div&gt;&lt;div&gt;&quot;глубина&quot; - например 1776.23 м&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-5" value="Шаг 2. Указать начальную глубину" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfJi1jBCSB13lVKtc_BS-1" target="QfJi1jBCSB13lVKtc_BS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="220" as="sourcePoint" />
+            <mxPoint x="110" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-8" value="Например 1917 м" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-9" value="Шаг 3. Заполнить плановые данные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfJi1jBCSB13lVKtc_BS-5" target="QfJi1jBCSB13lVKtc_BS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="360" as="sourcePoint" />
+            <mxPoint x="100" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-11" value="Плановые данные это 5 столбцов параметров:&lt;div&gt;1.&amp;nbsp;Глубина по стволу, м&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;Зенитный угол, град&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;Рабочий Азимут, град&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;Глубина по вертикали, м&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;Пространст. интенсивность, град/10 м&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-12" value="Шаг 4. Заполнить &quot;меру&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfJi1jBCSB13lVKtc_BS-9" target="QfJi1jBCSB13lVKtc_BS-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="130" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-14" value="Мера это 2 столбца параметров:&lt;div&gt;1.&amp;nbsp;Глубина долота с заходом квадрата (ВСП), м&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;Глубина замера, м.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QfJi1jBCSB13lVKtc_BS-21" value="Заметка: Точки замера и Забои берутся из меры" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -138,9 +138,10 @@ public class PointOfFaceDrillingPredictor {
         double AS40 = pointOfMeasurePredicted;
         double AS29 = pointOfMeasureFact1;
         double AS18 = pointOfMeasureFact2;
-        //TODO
-
-        return 0;
+        if(AH29 <= 1 || AX32 <= 0.1){
+            return DS38 * 0.1 * DLcpz / (CX36 - AS40);
+        }
+        return DS38 * 0.1 * AX32 / AH29 * (AS29 - AS18) / (CX36 - AS40);
     }
 
 }
